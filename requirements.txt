@@ -1,0 +1,11 @@
+torch 
+torchvision
+torchaudio
+transformers
+opencv-python 
+Pillow 
+tqdm  
+nest-asyncio
+psutil
+pyzmq
+python-dateutil
